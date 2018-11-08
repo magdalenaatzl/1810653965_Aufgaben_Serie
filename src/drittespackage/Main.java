@@ -10,9 +10,14 @@ public class Main {
         System.out.println(alter);
 
         //String fachhochschuleKufsteinTirol = "Fachhochschule Kufstein Tirol";
-        String fhKufsteinTirol = "Fachhochschule Kufstein Tirol";
+        String fhKufsteinTirol = "Fachhochschule Kufstein Tirol"; //neuer Variablenname
         System.out.println(fhKufsteinTirol);
-        final String FH_KUFSTEIN_TIROL = "Fachhochschule Kufstein Tirol" ;
+
+        final String FH_KUFSTEIN_TIROL = "Fachhochschule Kufstein Tirol" ; //wurde auf final gesetzt
         System.out.println(FH_KUFSTEIN_TIROL);
+
+        final String bezeichner;
+
+        ; //STRG+ALT+L rückt wieder zurück
     }
 }
