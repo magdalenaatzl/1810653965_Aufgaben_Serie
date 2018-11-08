@@ -8,5 +8,11 @@ public class Main {
 
         System.out.println(name);
         System.out.println(alter);
+
+        //String fachhochschuleKufsteinTirol = "Fachhochschule Kufstein Tirol";
+        String fhKufsteinTirol = "Fachhochschule Kufstein Tirol";
+        System.out.println(fhKufsteinTirol);
+        final String FH_KUFSTEIN_TIROL = "Fachhochschule Kufstein Tirol" ;
+        System.out.println(FH_KUFSTEIN_TIROL);
     }
 }
